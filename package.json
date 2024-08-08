@@ -6,7 +6,6 @@
   "main": "dist/lodash.js",
   "sideEffects": false,
   "scripts": {
-    "prepare": "husky install",
     "lint": "eslint ./src/**/*.ts"
   },
   "devDependencies": {
